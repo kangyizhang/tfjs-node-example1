@@ -1,0 +1,5 @@
+{
+  "GCLOUD_PROJECT": "learnjs-174218",
+  "CLOUD_BUCKET": "tfjs-testing",
+  "DATA_BACKEND": "datastore"
+}
